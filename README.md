@@ -1,6 +1,8 @@
 Midgard1 PHP Content Repository provider
 ========================================
 
+For now efforts are centered in making [Jackalope](http://jackalope.github.com/) transport since that should be less work.
+
 Text copied from https://github.com/bergie/phpcr-midgard2/blob/master/README.md
 
 
